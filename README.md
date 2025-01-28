@@ -22,7 +22,7 @@
 - LinkedIn: [Prathamesh Deshpande](https://www.linkedin.com/in/prathamesh-deshpande-b17400281)  
 
 ## Education  
-- **B.Tech in Computer Science & Engineering (2021 - 2024)**  
+- **B.Tech in Computer Science & Engineering (2020 - 2024)**  
   - Sharad Institute of Technology College of Engineering, Yadrav  
   - CGPA: 7.93 
 - **HSC (2018-2020)**  
