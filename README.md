@@ -37,6 +37,7 @@
   - Percentage: 87.80%  
 
 ## Projects  
+- **Pizza Hut**: Pizza Delivery System for tackeling offline Pizza Delivery.
 - **Examination Management System**: Online system to handle result processing for the Examination Department.  
 - **Invoice Generator**: Billing system with GST generation using HTML/CSS and Java.  
 - **Library Management System**: Basic management system created using C programming.  
