@@ -23,9 +23,9 @@
 - LinkedIn: [Prathamesh Deshpande](https://www.linkedin.com/in/prathamesh-deshpande-b17400281)  
 
 ## Education  
--**Diploma in Advance Computing(Aug,2024 - Feb,2025)**
-  -Sunbeam Institute of Information Technology,Karad
-   Percentage: 70%
+- **Diploma in Advance Computing(Aug,2024 - Feb,2025)**
+  - Sunbeam Institute of Information Technology,Karad
+  - Percentage: 70%
 - **B.Tech in Computer Science & Engineering (2020 - 2024)**  
   - Sharad Institute of Technology College of Engineering, Yadrav  
   - CGPA: 7.93 
